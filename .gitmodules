@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TDApplied"]
+	path = TDApplied
+	url = https://github.com/shaelebrown/tdapplied
+	shallow = true
+	registered = true
